@@ -66,4 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
 # react-todo
+このリポジトリはsoarflatさんの『React実践入門：Reactの基礎を理解してシンプルなアプリケーションを作る』のTodoアプリを個人の学習ように作ったものになります。
