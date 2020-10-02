@@ -4,6 +4,11 @@
       "title": "Angular の学習",
       "id": "c7051c2c-9f9e-452b-999f-1ce412415545",
       "completed": false
+    },
+    {
+      "title": "test",
+      "completed": true,
+      "id": "5efac55f-28fb-4a4d-828d-e2faf390cad2"
     }
   ]
 }
